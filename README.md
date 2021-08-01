@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuvalbk49
+- 👋 Hi, I’m Yuval Berko
 - 👀 I’m interested in anlisys projects in the fintech area
 - 🌱 I’m currently learning economics
 - 📫 How to reach me: email adress - yuvalberko1998@gmail.com
