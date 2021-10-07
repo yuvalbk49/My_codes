@@ -1,4 +1,4 @@
-def AllDiv(num): # מחלקים של מספר
+def AllDiv(num):
   x=[]
   for i in range(1,num):
     if num%i==0:
