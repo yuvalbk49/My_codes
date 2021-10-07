@@ -1,0 +1,6 @@
+def IsPrime(x):
+  add=0
+  for i in range(2,x):
+    if x%i!=0:
+      add+=1
+  return add==x-2
