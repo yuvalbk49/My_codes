@@ -4,7 +4,7 @@ def IsPrime(x):
     if x%i!=0:
       add+=1
   return add==x-2
-  ------------------------------------
+------------------------------------
 
 def AllDiv(num):
   x=[]
@@ -12,7 +12,7 @@ def AllDiv(num):
     if num%i==0:
       x.append(i)
   return x
---------------------------------------
+------------------------------------
 
 def PrimeFactors(num): # Must be linked with AllDiv and IsPrime!
   L=[]
